@@ -18,6 +18,6 @@
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@masoom_banda/StringSession)
 
 
-## {øwner} {@masoom_banda}
+## [øwner] {@masoom_banda}
 ## [group] {https://t.me/warrior_riders}
 
